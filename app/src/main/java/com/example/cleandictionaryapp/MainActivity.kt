@@ -9,7 +9,6 @@ import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
 import com.example.cleandictionaryapp.core.util.Resource
 import com.example.cleandictionaryapp.databinding.ActivityMainBinding
-import com.example.cleandictionaryapp.feature_dictionary.WordInfoAdapter
 import com.example.cleandictionaryapp.feature_dictionary.presentation.WordInfoViewModel
 import com.google.android.material.snackbar.Snackbar
 import dagger.hilt.android.AndroidEntryPoint

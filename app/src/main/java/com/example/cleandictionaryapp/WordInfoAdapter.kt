@@ -1,4 +1,4 @@
-package com.example.cleandictionaryapp.feature_dictionary
+package com.example.cleandictionaryapp
 
 import android.text.Html
 import android.view.LayoutInflater
